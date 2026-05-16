@@ -1,8 +1,7 @@
-# Patchwork Singapore
+# [Patchwork Singapore](https://xuanx1.github.io/singaporePatchwork/)
 
-*An editorial quilt of the island — four readings, one cloth.*
-
----
+*An editorial [quilt](https://xuanx1.github.io/singaporePatchwork/) of the island — four readings, one cloth.*
+<img width="1321" height="850" alt="Screenshot 2026-05-17 010547" src="https://github.com/user-attachments/assets/1a1911e7-9459-41ac-9b70-a497440f7bdf" />
 
 Each of Singapore's planning area is rendered as a
 hand-stitched patch. Residential patches carry colour, pattern, and embroidered
@@ -14,8 +13,6 @@ Patch positions are computed from each town's real lat/lon (URA centroid) and
 snapped to a 12×7 grid via a Hungarian-style minimum-cost assignment — so
 Sembawang sits at the northern tip, Marine Parade at the south coast, Jurong
 West far west, and Tampines / Pasir Ris along the east arm.
-
----
 
 ## Four readings
 
@@ -29,7 +26,6 @@ West far west, and Tampines / Pasir Ris along the east arm.
 The week dial drives Weather and Dengue. It's disabled on Satisfaction and
 Diversity (single point in time, no weekly variation possible).
 
----
 
 ## Data sources
 
