@@ -1,0 +1,65 @@
+{
+  "source": "data.gov.sg dataset d_dbfabf16158d1b0e1c420627c0819168 (NEA Active Dengue Clusters GEOJSON)",
+  "fetched_at": "2026-05-16T08:52:24.127Z",
+  "by_town": {
+    "amk": {
+      "clusters": 1,
+      "total_cases": 12,
+      "max_cluster": 12,
+      "localities": [
+        "Mimosa Cres / Nim Dr, Green, Rd / Saraca Rd / Stratton Dr"
+      ]
+    },
+    "tpn": {
+      "clusters": 2,
+      "total_cases": 5,
+      "max_cluster": 3,
+      "localities": [
+        "Simei St 1 (Blk 112, 113)",
+        "Tampines Ctrl 7 (Blk 518B) / Tampines Ctrl 8 (Blk 520A)"
+      ]
+    },
+    "psr": {
+      "clusters": 1,
+      "total_cases": 3,
+      "max_cluster": 3,
+      "localities": [
+        "Pasir Ris Dr 6 (Blk 411)"
+      ]
+    }
+  },
+  "clusters": [
+    {
+      "locality": "Mimosa Cres / Nim Dr, Green, Rd / Saraca Rd / Stratton Dr",
+      "cases": 12,
+      "lon": 103.8645876213063,
+      "lat": 1.38387762571524,
+      "town": "amk",
+      "dist": 0.023808473549327375
+    },
+    {
+      "locality": "Simei St 1 (Blk 112, 113)",
+      "cases": 3,
+      "lon": 103.95041945773777,
+      "lat": 1.3423683084628457,
+      "town": "tpn",
+      "dist": 0.012832255070213296
+    },
+    {
+      "locality": "Tampines Ctrl 7 (Blk 518B) / Tampines Ctrl 8 (Blk 520A)",
+      "cases": 2,
+      "lon": 103.93974525122877,
+      "lat": 1.3567623678967802,
+      "town": "tpn",
+      "dist": 0.005936586649398631
+    },
+    {
+      "locality": "Pasir Ris Dr 6 (Blk 411)",
+      "cases": 3,
+      "lon": 103.95470175413102,
+      "lat": 1.3725964534511585,
+      "town": "psr",
+      "dist": 0.005732866376434519
+    }
+  ]
+}
